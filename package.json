@@ -1,0 +1,16 @@
+{
+  "name": "inspect-element",
+  "main": "./lib/inspect-element",
+  "version": "0.0.0",
+  "description": "Inspect HTML elements within atom outside of Dev Mode.",
+  "keywords": [
+    "atom",
+    "inspect-element"
+  ],
+  "repository": "https://github.com/danefitzmaurice/inspect-element",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
