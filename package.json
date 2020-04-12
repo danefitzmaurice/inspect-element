@@ -1,7 +1,7 @@
 {
   "name": "inspect-element",
   "main": "./lib/inspect-element",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Inspect HTML elements within atom outside of Dev Mode.",
   "keywords": [
     "atom",
