@@ -19,6 +19,10 @@
       }
     }
   },
+  "scripts": {
+    "pub-major": "apm publish major",
+    "pub-minor": "apm publish minor"
+  },
   "dependencies": {
     "lodash": "^4.17.19"
   },
